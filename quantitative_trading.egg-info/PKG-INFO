@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: quantitative-trading
+Version: 0.0.1
+Summary: A sample Python project
+Home-page: 
+Author: bin.zhu
+Author-email: 
+Requires-Python: >=3.6
+Description-Content-Type: 量化投资小工具,争取早日实现财富自由
