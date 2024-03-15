@@ -1,0 +1,1 @@
+python3 setup.py install && python3 /Users/zhubin/Desktop/workspace/SPIRE/QTzb/utils/baostock/debug.py 2&>1|tee run.log
